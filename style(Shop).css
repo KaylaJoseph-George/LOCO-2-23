@@ -1,0 +1,46 @@
+
+h1{
+  color:black;
+  font-family: 'Cuprum', sans-serif;
+}
+#loco {
+ font-family: 'Cuprum', sans-serif;
+}
+
+#logoPhoto{
+  width: 6%;
+  display:block;
+  position: absolute;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+
+body{
+  background-color:#F5F5F5;
+}
+.image{
+  border: solid #F42B03 2px;
+  margin: 0px 5px 5px 5px;
+}
+.text{
+  border: solid black 2px;
+  
+}
+#resize{
+  float:right;
+  height:200px;
+  width:50%;
+}
+#mugs{
+  height:200px;
+  width:50%;
+  float:right;
+}

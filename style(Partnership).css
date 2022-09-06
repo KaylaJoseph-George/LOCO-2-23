@@ -1,0 +1,38 @@
+
+h1{
+  color:#F5F5F5;
+  font-family: 'Cuprum', sans-serif;
+}
+
+#loco {
+ font-family: 'Cuprum', sans-serif; 
+}
+
+#logoPhoto{
+  width: 8%;
+  display:block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+
+body{
+  background-color:#F5F5F5;
+  
+}
+
+/* .video{
+  background-image: url("https://thumbs.gfycat.com/DefenselessNeighboringDartfrog-size_restricted.gif")
+/*   background-repeat: no-repeat;
+  position:cover */
+}
+
+
+/*  314 × 362  background-blend-mode: saturation; */ */

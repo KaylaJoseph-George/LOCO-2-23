@@ -1,0 +1,51 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -1;
+}
+.video{
+  margin: 0 15 0 -15;
+}
+
+#loco {
+ font-family: 'Cuprum', sans-serif; 
+}
+
+h1{
+  color:#F5F5F5;
+  font-family: 'Cuprum', sans-serif;
+}
+
+:root{
+--primary: #E70E02;
+--light:#F5F5F5;
+--dark: #000000;
+}
+
+#logoPhoto{
+  width: 8%;
+  display:block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+h3{
+font-family: 'Kaisei HarunoUmi', serif;
+color: var(--light);
+}
+
+navbar{
+  padding:50px;
+  background-color: black;
+}
+
+  
